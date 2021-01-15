@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [API Finança](https://github.com/OPthyago/api-financa)
 
-- 🌱 I’m currently learning **NodeJS with clean architecture and TDD**
+- 🌱 I’m currently learning **Clean Architecture and TDD**
 
 - 👯 I’m looking to collaborate with my **knowledge in Angular and NodeJS**
 
