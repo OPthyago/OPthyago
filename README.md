@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thyagoop&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoop" /> </p>
 
-- 🔭 I’m currently working on [API Finança](https://github.com/OPthyago/api-financa)
+- 🌱 I’m currently learning **AWS**
 
-- 🌱 I’m currently learning **Clean Architecture and TDD**
+- 👯 I’m looking to collaborate with my **knowledge in NodeJS and Angular**
 
-- 👯 I’m looking to collaborate with my **knowledge in Angular and NodeJS**
-
-- 💬 Ask me about **typescript, javascript, Angular 2+ and NodeJs**
+- 💬 Ask me about **typescript, javascript, NodeJs and Angular 2+**
 
 - 📫 How to reach me **thyagoop@gmail.com**
 
