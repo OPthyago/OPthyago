@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thyagoop&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoop" /> </p>
 
-- 🌱 I’m currently learning **AWS**
-
 - 👯 I’m looking to collaborate with my **knowledge in NodeJS and Angular**
 
 - 💬 Ask me about **typescript, javascript, NodeJs and Angular 2+**
